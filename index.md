@@ -38,10 +38,10 @@ GPA: 3.94/4.0,&ensp; 排名: 3/30,&ensp; CET6: 623
 - 2020，新生学习优秀奖学金 & 新生自强奖学金
 
 ## 科研经历
-####  2020.09-至今 多媒体分析与应用实验室，HUST，杨鹏副教授
+####  2020.09-至今 &emsp; 多媒体分析与应用实验室，HUST，杨鹏副教授
 - **研究成果** : 针对视频分析领域的时空压缩展开研究，以一作投稿于TII (IEEE Transactions on Industrial Informatics, IF:10.215，中科院一区)。
 - 
-####  2021.08-2021.09  [ACM summer school](https://europe.acm.org/hpc-summer-school)     
+####  2021.08-2021.09  &emsp;[ACM summer school](https://europe.acm.org/hpc-summer-school)     
 - **暑校介绍** : 该暑校授课老师来自斯坦福、牛津、剑桥等名校以及英伟达、华为等知名企业，主要面向全球青年教师和博士生，仅录取了极少数本科生。
 - **内容描述** : 主题 _HPC computer architectures for AI and dedicated applications._ &ensp;  我成功获取ACM学生会员和荣誉证书 (the best performing students)。
 

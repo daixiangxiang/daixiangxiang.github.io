@@ -28,6 +28,7 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 + 2021, &ensp; MCM/ICM (Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling), &ensp; Meritorious Winner (The First Prize, 7%)
 + 2021, &ensp; MatherCup Big Data Competition, &ensp; The Gold Medal (First in Graduate and Undergraduate Students, $: 1576)
 + 2020, &ensp; CMC (The Chinese Mathematics Competitions), &ensp;  The Second Prize 
+
 ### School Honors
 + 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST)     
 + 2020, 2021,   &ensp;   National Scholarship for Encouragement (3%) 
@@ -39,16 +40,17 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 ####  2020.09-present &emsp; Multimedia Analysis and Application Laboratory，HUST，Prof. Yang
 - **Description** : Research on spatio-temporal compression in video analysis. 
 - **Content** : As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215).
+
 ####  2021.08-2021.09  &emsp; [ACM summer school](https://europe.acm.org/hpc-summer-school)     
 - **Description** : Teachers from Stanford, Oxford, Cambridge, etc., and enterprises such as Nvidia and Huawei, are mainly for young computer science researchers and engineers from all over the world, and only a few undergraduate students are admitted.
 - **Content** : Subject is  _HPC computer architectures for AI and dedicated applications._ &ensp;  
 &ensp; I  successfully obtained certificate of honor (the best performing students).
 
-####  2021.03-2022.03 &emsp; [Design of real-time video analysis system based on edge computing](https://github.com/daixiangxiang/object-detection.git)（_Project Leader_） 
+####  2021.03-2022.03 &emsp; [Design of  Video Analysis System based on Edge Computing](https://github.com/daixiangxiang/object-detection.git)（_Project Leader_） 
 - **Description** : The project to build a test framework, using socket to finish communication. The edge node is simulated by notebook to run the mainstream recognition framework,. After image recognition, the image is compressed by clipping.
 - **Content** : Based on VOCdevkit data set, I compared two  detection methods (Faster RCNN and Mobilenet-YOLO ). By  changing resolution and changing the number of  threads to control computing power,  the effect is tested on images and videos.
 
-####  2021.10-2022.01  &emsp; [Construction of knowledge Graph and Word Meaning Analysis based on Web Crawler](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  
+####  2021.10-2022.01  &emsp; [Construction of knowledge Graph and NLP based on Crawler](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  
 - **Description** : Based on integration of GUI interface, the project achieves the cleaning of crawled data, the construction of knowledge map by graphical database, and the basic NLP language processing (e.g., word frequency statistics and emotion analysis).
 - **Content** : I finished network data crawling, data cleaning, as well as knowledge graph creation and search functions.
 

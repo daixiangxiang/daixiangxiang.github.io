@@ -54,7 +54,7 @@ GPA: 3.94/4.0,&ensp; 排名: 3/30,&ensp; CET6: 623
 - **工作内容** : 我基于VOCdevkit数据集，通过压缩图片改变分辨率、更改电脑线程数控制算力等方式对比两单阶段检测Faster RCNN 和单阶段检测mobilenet-yolo， 测试了对图片及视频逐帧进行物体识别的效果。
 
 ## 技能清单
-- 熟悉编程语言Python(Leetcod刷题100+)，Matlab，C，Verilog
+- 熟悉编程语言Python (Leetcod刷题100+)，Matlab，C，Verilog
 - 掌握基本的数值分析方法，数据结构和算法和统计分析软件SPSS
 - 对计算机网络协议，数据库和Linux系统有一定的了解，掌握git基本操作
 - 了解基本硬件知识（计算机等级三级嵌入式良好)

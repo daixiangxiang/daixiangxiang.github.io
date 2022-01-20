@@ -3,12 +3,11 @@
   <tr>
     <td>
       <h1> Xiangxiang DAI</h1>
-      <p><b>Un</b></p>
-      <a href="http://english.hust.edu.cn">Huazhong University of Science and Technology </a>, China.
-      <p><b> [Huazhong University of Science and Technology](http://english.hust.edu.cn/) </b></p>
+      <a href="http://english.eic.hust.edu.cn/">School of Electronic Information and Communications</a>
+      <p><b>Huazhong University of Science and Technology, China.</b></p>
       <p><b>E-mail：xiangdai@acm.org</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
-      <a href="/index.html">中文版</a>
+      <p><b>Resaerch interest：Video Analytics</b></p>
+      <a href="/index.html">Chinese Version</a>
     </td>
     <td width="25%">
       <img src="/sample.jpg" width="100%">
@@ -17,32 +16,26 @@
 </table>
 </div>
 
-<h1 align = "center"> </h1>
+## Education Background
+Sep. 2019 - Jun. 2023(expected) &emsp;   [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST)  
 
-## Education
-[School of Electronic Information and Communications](http://english.eic.hust.edu.cn/) 
-
-  &emsp;    Sep. 2019 - Jun. 2023(expected)
-
-BEng, Advanced Class in Mathematics and Physics for Information Science (**Elite Class**)
+BEng in Advanced Class in Mathematics and Physics for Information Science (**EE**)
 
 GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 
-
 ## Honors & Awards
+### Competition Awards
++ 2021, &ensp; MCM/ICM (Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling), &ensp; Meritorious Winner (The First Prize, 7%)
++ 2021, &ensp; MatherCup Big Data Competition, &ensp; The Gold Medal (First in Graduate and Undergraduate Students, $: 1576)
++ 2020, &ensp; CMC (The Chinese Mathematics Competitions), &ensp;  The Second Prize 
 ### School Honors
-+ 2020-2023 &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST)   &emsp;　　　&ensp; 　&emsp;  
-+  2020, 2021   &ensp;   National Scholarship for Encouragement　　　&emsp;　  
-+  2021 &ensp Huazhong University of Science and Technology - China Optical Valley Morning Star Scholarship (1/)
++ 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST)     
++ 2020, 2021,   &ensp;   National Scholarship for Encouragement (3%) 
++ 2021, &ensp; Optical Valley Morning Star Scholarship (only one in EIC institute in HUST, $: 1576)
++ 2021, &ensp; Self-improvement pacesetter
++ 2020, 2021, &ensp; Scholarship for Academic Excellence & Scholarship for Self-improvement
 
 
-## 教育背景
-### 华中科技大学 （HUST）
-2019.09 -2022.6（预期），本科
- 
-电子信息数理提高班 (**精英班级**)
- 
-GPA: 3.94/4.0,&ensp; 排名: 3/30,&ensp; CET6: 623 
 
 
 ## 荣誉表彰

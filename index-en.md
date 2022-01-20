@@ -35,21 +35,6 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 + 2021, &ensp; Self-improvement pacesetter
 + 2020, 2021, &ensp; Scholarship for Academic Excellence & Scholarship for Self-improvement
 
-
-
-
-## 荣誉表彰
-### 比赛荣誉
-- 2021， 美国大学生数学建模比赛，M奖 (一等奖，6%）
-- 2021， MathorCup大数据竞赛，金奖(本科生研究生组第一，￥:10000）
--	2020， 全国大学生数学竞赛，二等奖
-### 学校表彰
-- 2020 - 2022，本科特优生 （Top 1%， 华中科技大学本科生最高荣誉）
-- 2020，2021， 国家励志奖学金 （3%）
-- 2021， 光谷晨星奖学金 （全院年级唯一， ￥:10000）
-- 2021， 院级自强标兵 & 优秀共青团员 & 学习优秀奖学金 & 自强奖学金
-- 2020，新生学习优秀奖学金 & 新生自强奖学金
-
 ## 科研经历
 ####  2020.09-present 多媒体分析与应用实验室，HUST，杨鹏副教授
 - **研究成果** : 针对视频分析领域的时空压缩展开研究，以一作投稿于TII (IEEE Transactions on Industrial Informatics, IF:10.215，中科院一区)。

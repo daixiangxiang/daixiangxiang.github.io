@@ -40,9 +40,9 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 - **Description** : Research on spatio-temporal compression in video analysis. 
 - **Content** : As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215).
 ####  2021.08-2021.09  &emsp; [ACM summer school](https://europe.acm.org/hpc-summer-school)     
-- **Description** : Teachers from Stanford, Oxford, Cambridge, etc., as well as enterprises such as Nvidia and Huawei, are mainly for young computer science researchers and engineers from all over the world, and only a few undergraduate students are admitted.
+- **Description** : Teachers from Stanford, Oxford, Cambridge, etc., and enterprises such as Nvidia and Huawei, are mainly for young computer science researchers and engineers from all over the world, and only a few undergraduate students are admitted.
 - **Content** : Subject is  _HPC computer architectures for AI and dedicated applications._ &ensp;  
-&ensp; I  successfully obtain certificate of honor (the best performing students).
+&ensp; I  successfully obtained certificate of honor (the best performing students).
 
 ####  2021.03-2022.03 &emsp; [Design of real-time video analysis system based on edge computing](https://github.com/daixiangxiang/object-detection.git)（_Project Leader_） 
 - **Description** : The project to build a test framework, using socket to finish communication. The edge node is simulated by notebook to run the mainstream recognition framework,. After image recognition, the image is compressed by clipping.
@@ -54,11 +54,10 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 
 
 ## Skills
-- 熟悉编程语言Python(Leetcod刷题100+)，Matlab，C，Verilog
-- 掌握基本的数值分析方法，数据结构和算法和统计分析软件SPSS
-- 对计算机网络协议，数据库和Linux系统有一定的了解，掌握git基本操作
-- 了解基本硬件知识（计算机等级三级嵌入式良好)
-
+- Familiar with Python(Leetcode 100+), Matlab, C, Verilog (ranked by proficiency).
+- Master basic numerical analysis methods, data structures and algorithms and statistical analysis software *SPSS*.
+- Have a certain understanding of computer network protocol, database and *linux* system, master the basic operation of Git.
+- Basic hardware knowledge (Level 3 of NCRE in embedded,Grade: good).
 ## Thank You
 Thank you for taking the time to read my resume and I look forward to working with you!
 

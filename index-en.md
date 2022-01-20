@@ -30,7 +30,8 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 + 2020, &ensp; CMC (The Chinese Mathematics Competitions), &emsp;  *Second Prize*
 
 ### School Honors
-+ 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST)     
++ 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST) 
++ 2021, &ensp; Winning Prize in  Outstanding Undergraduate Student (16 in 180)
 + 2020, 2021,   &ensp;   National Scholarship for Encouragement (3%) 
 + 2021, &ensp; Optical Valley Morning Star Scholarship (only one in EIC institute in HUST, $: 1576)
 + 2021, &ensp; Self-improvement pacesetter

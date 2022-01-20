@@ -36,20 +36,33 @@ GPA: 3.94/4.0,&ensp; 排名: 3/30,&ensp; CET6: 623
 - 2021， 院级自强标兵 & 优秀共青团员 & 学习优秀奖学金 & 自强奖学金
 - 2020，新生学习优秀奖学金 & 新生自强奖学金
 ## 科研经历
-- ACM summer school
-
+#### 2020.09-present 多媒体分析与应用实验室，HUST，杨鹏副教授
+- **研究成果** : 针对视频分析领域的时空压缩展开研究，以一作投稿于TII (IEEE Transactions on Industrial Informatics, IF:10.215，中科院一区)。
+####  2021.08-2021.09  [ACM summer school](https://europe.acm.org/hpc-summer-school)     
+- **暑校介绍** : 该暑校授课老师来自斯坦福、牛津、剑桥等名校以及英伟达、华为等知名企业，主要面向全球青年教师和博士生，仅录取了极少数本科生。
+- **内容描述** : 主题 _HPC computer architectures for AI and dedicated applications._ &ensp;  我成功获取ACM学生会员和荣誉证书 (the best performing students)。
 
 ## 项目研究
-####  [基于网络爬虫的知识图谱的构建](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)
+####  2021.10-2022.01  &emsp; [基于网络爬虫的知识图谱的构建与词义分析](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  
 - **项目描述** : 该项目在GUI界面集成的基础上支持将爬取的网页数据清洗，并利用图形数据库构建知识图谱，同时支持对爬取内容的词频统计和情感分析等基本NLP语言处理。
 - **工作内容** : 我实现了网络数据爬取，数据清洗，以及知识图谱创建和搜索功能的实现。
- #### [基于边缘计算的实时视频分析系统的设计](https://github.com/daixiangxiang/object-detection.git) （_省级大创，负责人_）
-
+ #### 2021.03-2022.03 &emsp; [基于边缘计算的实时视频分析系统的设计](https://github.com/daixiangxiang/object-detection.git)（_省级大创，负责人_） 
 - **项目描述** : 该项目构建测试框架，利用Socket搭建了一个通信框架，实现了服务器与客户端间的文件传输功能。以笔记本模拟边缘节点运行主流识别框架，并在图像识别后通过剪裁式来达到压缩图片的效果。
 - **工作内容** : 我基于VOCdevkit数据集，通过压缩图片改变分辨率、更改电脑线程数控制算力等方式对比两单阶段检测Faster RCNN 和单阶段检测mobilenet-yolo， 测试了对图片及视频逐帧进行物体识别的效果。
 
+## 技能清单
+- 熟悉编程语言Python(Leetcod刷题100+)，Matlab，C，Verilog
+- 掌握基本的数值分析方法，数据结构和算法和统计分析软件SPSS
+- 对计算机网络协议，数据库和Linux系统有一定的了解，掌握git基本操作
+- 了解基本硬件知识（计算机等级三级嵌入式良好)
 
+## 学生工作
+- 班级团支书
+- 累计义工工时：28hours
+- 学术发展支持中心学生讲师
 
+## 感谢阅读
+感谢您花时间阅读我的简历，期待能与您共事！
 
 
 <h1 align = "center"> Xiangxiang DAI</h1>
@@ -130,9 +143,7 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 
 我是 XXX
 
-## 感谢阅读
 
-感谢您花时间阅读我的简历，期待能与您共事！
 
 <div style="page-break-after: always;"></div>
 

@@ -5,7 +5,7 @@
       <h1>戴祥祥</h1>
       <p><b>电子信息与通信学院， 华中科技大学</b></p>
       <p><b>邮箱：xiangdai@acm.org</b></p>
-      <p><b>研究兴趣：video analytics </b></p>
+      <p><b>研究兴趣：Video Analytics </b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
@@ -17,7 +17,7 @@
 
 ## 教育背景
 ### 华中科技大学 （HUST）
-2019.09 -2022.6（预期），本科
+2019.09 -2023.06（预期），本科
  
 电子信息数理提高班 (**精英班级**)
  

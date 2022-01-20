@@ -38,8 +38,8 @@ GPA: 3.94/4.0,&ensp; 排名: 3/30,&ensp; CET6: 623
 - 2020，新生学习优秀奖学金 & 新生自强奖学金
 
 
-## 科研经历
 
+## 科研经历
 #### 2020.09-present 多媒体分析与应用实验室，HUST，杨鹏副教授
 - **研究成果** : 针对视频分析领域的时空压缩展开研究，以一作投稿于TII (IEEE Transactions on Industrial Informatics, IF:10.215，中科院一区)。
 

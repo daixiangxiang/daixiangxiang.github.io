@@ -40,12 +40,13 @@ GPA: 3.94/4.0,&ensp; 排名: 3/30,&ensp; CET6: 623
 ## 科研经历
 ####  2020.09-至今 多媒体分析与应用实验室，HUST，杨鹏副教授
 - **研究成果** : 针对视频分析领域的时空压缩展开研究，以一作投稿于TII (IEEE Transactions on Industrial Informatics, IF:10.215，中科院一区)。
+- 
 ####  2021.08-2021.09  [ACM summer school](https://europe.acm.org/hpc-summer-school)     
 - **暑校介绍** : 该暑校授课老师来自斯坦福、牛津、剑桥等名校以及英伟达、华为等知名企业，主要面向全球青年教师和博士生，仅录取了极少数本科生。
 - **内容描述** : 主题 _HPC computer architectures for AI and dedicated applications._ &ensp;  我成功获取ACM学生会员和荣誉证书 (the best performing students)。
 
 ## 项目研究
-####  2021.10-2022.01  &emsp; [基于网络爬虫的知识图谱的构建与词义分析](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  
+####  2021.10-2022.01  &emsp; [基于网络爬虫的知识图谱的构建与词义分析](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  （_组长_）
 - **项目描述** : 该项目在GUI界面集成的基础上支持将爬取的网页数据清洗，并利用图形数据库构建知识图谱，同时支持对爬取内容的词频统计和情感分析等基本NLP语言处理。
 - **工作内容** : 我实现了网络数据爬取，数据清洗，以及知识图谱创建和搜索功能的实现。
 

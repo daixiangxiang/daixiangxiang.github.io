@@ -51,7 +51,7 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 - **Description** : The project to build a test framework, using socket to finish communication. The edge node is simulated by notebook to run the mainstream recognition framework,. After image recognition, the image is compressed by clipping.
 - **Content** : Based on VOCdevkit data set, I compared two  detection methods (Faster RCNN and Mobilenet-YOLO ). By  changing resolution and changing the number of  threads to control computing power,  the effect is tested on images and videos.
 
-####  2021.10-2022.01  &emsp; [Construction of knowledge Graph and NLP based on Crawler](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  
+####  2021.10-2022.01  &emsp; [Construction of knowledge Graph and NLP based on Crawler](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  （_Project Leader_） 
 - **Description** : Based on integration of GUI interface, the project achieves the cleaning of crawled data, the construction of knowledge map by graphical database, and the basic NLP language processing (e.g., word frequency statistics and emotion analysis).
 - **Content** : I finished network data crawling, data cleaning, as well as knowledge graph creation and search functions.
 

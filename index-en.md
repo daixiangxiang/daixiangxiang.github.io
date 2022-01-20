@@ -60,7 +60,8 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 - Master basic numerical analysis methods, data structures and algorithms and statistical analysis software *SPSS*.
 - Have a certain understanding of computer network protocol, database and *linux* system, master the basic operation of Git.
 - Basic hardware knowledge (Level 3 of NCRE in embedded, Grade: good).
-## Thank You
+
+## Acknowledgement
 Thank you for taking the time to read my resume and I look forward to working with you!
 
 

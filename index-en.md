@@ -41,7 +41,7 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 - **Description** : Research on spatio-temporal compression in video analysis. 
 - **Content** : As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215).
 
-####  2021.08-2021.09  &emsp; [ACM summer school](https://europe.acm.org/hpc-summer-school)     
+####  2021.08-2021.09  &emsp; [ACM Summer School](https://europe.acm.org/hpc-summer-school)     
 - **Description** : Teachers from Stanford, Oxford, Cambridge, etc., and enterprises such as Nvidia and Huawei, are mainly for young computer science researchers and engineers from all over the world, and only a few undergraduate students are admitted.
 - **Content** : Subject is  _HPC computer architectures for AI and dedicated applications._ &ensp;  
 &ensp; I  successfully obtained certificate of honor (the best performing students).

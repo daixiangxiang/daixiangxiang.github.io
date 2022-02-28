@@ -26,7 +26,7 @@ GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 ## Honors & Awards
 ### Competition Awards
 + 2021, &ensp; MCM/ICM (Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling), &emsp; *Meritorious Winner (First Prize, 7%)*
-+ 2021, &ensp; MatherCup Big Data Competition, &emsp; *Gold Medal (First in Graduate and Undergraduate Students, $: 1576)*
++ 2021, &ensp; MathorCup Big Data Competition, &emsp; *Gold Medal (First in Graduate and Undergraduate Students, $: 1576)*
 + 2020, &ensp; CMC (The Chinese Mathematics Competitions), &emsp;  *Second Prize*
 
 ### School Honors

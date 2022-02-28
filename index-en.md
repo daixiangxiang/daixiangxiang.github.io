@@ -21,7 +21,7 @@ Sep. 2019 - Jun. 2023(expected) &emsp;   [Huazhong University of Science and Tec
 
 BEng in Advanced Class in Mathematics and Physics for Information Science (**EE**)
 
-GPA: 3.94/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
+GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 
 ## Honors & Awards
 ### Competition Awards

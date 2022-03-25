@@ -29,18 +29,10 @@ GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 + 2021, &ensp; MathorCup Big Data Competition, &emsp; *Gold Medal (First in Graduate and Undergraduate Students, $: 1576)*
 + 2020, &ensp; CMC (The Chinese Mathematics Competitions), &emsp;  *Second Prize*
 
-### School Honors
-+ 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST) 
-+ 2021, &ensp; Winning Prize in  Outstanding Undergraduate Student (16 in 180)
-+ 2020, 2021,   &ensp;   National Scholarship for Encouragement (3%) 
-+ 2021, &ensp; Optical Valley Morning Star Scholarship (only one in EIC institute in HUST, $: 1576)
-+ 2021, &ensp; Self-improvement pacesetter
-+ 2020, 2021, &ensp; Scholarship for Academic Excellence & Scholarship for Self-improvement
-
 ## Research Experience
 ####  2020.09-present &emsp; Multimedia Analysis and Application Laboratory，HUST，Prof. Yang
-- **Description** : Research on spatio-temporal compression in video analysis. 
-- **Content** : As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215).
+- **Description** : RESPIRE: Reducing Spatial-Temporal Redundancy for Efficient Edge-based Industrial Video Analytics.
+- **Content** :  As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215, $\color{red} {Accept} $.
 
 ####  2021.08-2021.09  &emsp; [ACM Summer School](https://europe.acm.org/hpc-summer-school)     
 - **Description** : Teachers from Stanford, Oxford, Cambridge, etc., and enterprises such as Nvidia and Huawei, are mainly for young computer science researchers and engineers from all over the world, and only a few undergraduate students are admitted.
@@ -58,6 +50,16 @@ GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 ####  2021.10-2022.01 &emsp; [Multi Agents Reinforcement learning](https://github.com/daixiangxiang/Reinforcement_learning.git)（_Supervise by Dr. Lin_）
 - **Description** : This project mainly uses reinforcement learning multi-agent to simulate multi-edge nodes in video analysis.
 - **Content** : I mainly use A3C and MAPPO to realize interactive functions, simulate multi-edge nodes and demonstrate synergistic advantages.
+
+### School Honors
++ 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST) 
++ 2021, &ensp; Winning Prize in  Outstanding Undergraduate Student (16 in 180)
++ 2020, 2021,   &ensp;   National Scholarship for Encouragement (3%) 
++ 2021, &ensp; Optical Valley Morning Star Scholarship (only one in EIC institute in HUST, $: 1576)
++ 2021, &ensp; Self-improvement pacesetter
++ 2020, 2021, &ensp; Scholarship for Academic Excellence & Scholarship for Self-improvement
+
+
 
 ## Skills
 - Familiar with Python(Leetcode 100+), Matlab, C, Verilog (ranked by proficiency).

@@ -26,7 +26,7 @@ GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 ## Research Experience
 ####  2020.09-present &emsp; Multimedia Analysis and Application Laboratory，HUST，Prof. Yang
 - **Description** : RESPIRE: Reducing Spatial-Temporal Redundancy for Efficient Edge-based Industrial Video Analytics.
-- **Content** :  As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215, $\color{red} {Accept} $.
+- **Content** :  As the first author,  the work is submitted to TII (IEEE Transactions on Industrial Informatics, IF:10.215, ***Accept***.
 
 ####  2021.08-2021.09  &emsp; [ACM Summer School](https://europe.acm.org/hpc-summer-school)     
 - **Description** : Teachers from Stanford, Oxford, Cambridge, etc., and enterprises such as Nvidia and Huawei, are mainly for young computer science researchers and engineers from all over the world, and only a few undergraduate students are admitted.

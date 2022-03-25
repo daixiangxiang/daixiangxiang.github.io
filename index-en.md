@@ -23,12 +23,6 @@ BEng in Advanced Class in Mathematics and Physics for Information Science (**EE*
 
 GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 
-## Honors & Awards
-### Competition Awards
-+ 2021, &ensp; MCM/ICM (Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling), &emsp; *Meritorious Winner (First Prize, 7%)*
-+ 2021, &ensp; MathorCup Big Data Competition, &emsp; *Gold Medal (First in Graduate and Undergraduate Students, $: 1576)*
-+ 2020, &ensp; CMC (The Chinese Mathematics Competitions), &emsp;  *Second Prize*
-
 ## Research Experience
 ####  2020.09-present &emsp; Multimedia Analysis and Application Laboratory，HUST，Prof. Yang
 - **Description** : RESPIRE: Reducing Spatial-Temporal Redundancy for Efficient Edge-based Industrial Video Analytics.
@@ -50,6 +44,12 @@ GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 ####  2021.10-2022.01 &emsp; [Multi Agents Reinforcement learning](https://github.com/daixiangxiang/Reinforcement_learning.git)（_Supervise by Dr. Lin_）
 - **Description** : This project mainly uses reinforcement learning multi-agent to simulate multi-edge nodes in video analysis.
 - **Content** : I mainly use A3C and MAPPO to realize interactive functions, simulate multi-edge nodes and demonstrate synergistic advantages.
+
+## Honors & Awards
+### Competition Awards
++ 2021, &ensp; MCM/ICM (Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling), &emsp; *Meritorious Winner (First Prize, 7%)*
++ 2021, &ensp; MathorCup Big Data Competition, &emsp; *Gold Medal (First in Graduate and Undergraduate Students, $: 1576)*
++ 2020, &ensp; CMC (The Chinese Mathematics Competitions), &emsp;  *Second Prize*
 
 ### School Honors
 + 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1%. Highest honor for undergraduates in HUST) 

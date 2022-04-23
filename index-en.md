@@ -39,7 +39,7 @@ GPA: 3.95/4.0,&ensp; Rank: 3/30  (**Elite Class**),&ensp; CET6: 623
 
 ####  2021.10-2022.01  &emsp; [Construction of knowledge Graph and NLP based on Crawler](https://github.com/daixiangxiang/Crawler-knowledge-map-NLP.git)  （_Project Leader_） 
 - **Description** : Based on integration of GUI interface, the project achieves the cleaning of crawled data, the construction of knowledge map by graphical database, and the basic NLP language processing (e.g., word frequency statistics and emotion analysis).
-- **Content** : I finished network data crawling, data cleaning, as well as knowledge graph creation and search functions.
+- **Content** : I realized the construction of web crawler and the semantic judgment of emotion using Transformrer.
 
 ####  2021.10-2022.01 &emsp; [Multi Agents Reinforcement learning](https://github.com/daixiangxiang/Reinforcement_learning.git)（_Supervise by Dr. Lin_）
 - **Description** : This project mainly uses reinforcement learning multi-agent to simulate multi-edge nodes in video analysis.
